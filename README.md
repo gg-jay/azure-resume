@@ -1,5 +1,5 @@
 # azure-resume
-My own azure resume, following project video
+My own azure resume.
 
 ## First steps
 
